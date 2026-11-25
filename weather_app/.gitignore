@@ -1,0 +1,19 @@
+# VE
+venv/
+.venv/
+env/
+
+#Python cache
+__pycache__/
+*.pyc
+
+#Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+
+#editor and os files
+.vscode/
+.idea/
+.DS_Store
